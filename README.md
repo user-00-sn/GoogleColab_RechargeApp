@@ -1,4 +1,5 @@
 ## Cloud computing and global satellite products for potential groundwater recharge estimation: Application to the Basin of Mexico
+Elizabeth Guzmán-Hidalgo, Saúl Arciniega-Esparza & Antonio Hernández-Espriú 
 
 **Format:** Jupyter Notebook compatible with Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/user-00-sn/GoogleColab_RechargeApp/blob/main/GEE_Recharge.ipynb)
@@ -69,6 +70,8 @@ Generates spatial maps of Precipitation, PET (potential evapotranspiration), and
 **Download Series:**
 Enables the export of the simulated time series in CSV format for the selected simulation area.
 
-
 ## References
 Attard, G. G. (2022). Implementation of the Thornthwaite-Mather procedure to map groundwater recharge [Código fuente]. Google Earth Engine Tutorials. https://developers.google.com/earth-engine/tutorials/community/groundwater-recharge-estimation
+
+## Cite this work:
+Guzmán-Hidalgo, E., Arciniega-Esparza, S. & Hernández-Espriú, A. Cloud computing and global satellite products for potential groundwater recharge estimation: application to the Basin of Mexico. Model. Earth Syst. Environ. 12, 268 (2026). https://doi.org/10.1007/s40808-026-02930-5
